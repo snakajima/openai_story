@@ -1,6 +1,22 @@
 # "The Board Room Coup"
 ## A Documentary Drama - Rough Story Draft
 
+### **Prologue: The Promise (2015)**
+
+**Opening Scene:** A dimly lit restaurant in Silicon Valley. Elon Musk, Sam Altman, and a young Ilya Sutskever around a table.
+
+**Elon:** "We need to ensure AGI is developed safely, for everyone's benefit. Not for profit, but for humanity."
+
+**Sam:** "A non-profit. Open source. Transparent."
+
+**Ilya:** "The research possibilities..."
+
+Handshakes. Hope. A shared vision. Title card: "OpenAI is founded as a non-profit to ensure artificial general intelligence benefits all of humanity."
+
+**Quick montage:** The early days - recruiting scientists, Elon's billion-dollar pledge, the original team united.
+
+**Cut to:** "8 Years Later" - Elon's name on a lawsuit filing: *Musk v. Altman*
+
 ### **Act I: The Gathering Storm**
 
 **Opening:** Present day - Ilya Sutskever in a stark deposition room, lawyers surrounding him. His voice: "I wanted them to become aware of it. But my opinion was that action was appropriate."
